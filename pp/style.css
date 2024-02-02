@@ -1,0 +1,260 @@
+.back
+{
+    background-color: #F2632E;
+}
+/* .w{
+    width: 100%;
+} */
+.font{
+    padding-left: 30%;
+    padding-top: 30px;
+    padding-bottom: 5%;
+    color: white;
+}
+.img{
+    margin-top: 5%;
+}
+.font1{
+    padding-left: 30%;
+    color: white;
+}
+.btn{
+    color: #F2632E;
+    font-size: 15px;
+    margin-top: 7%;
+    /* height: 50px;
+    width: 60%; */
+    margin-bottom: 5%;
+    text-align: center;
+}
+.fa-phone{
+    color: white;
+    padding-right: 5%;
+}
+.fa-envelope{
+    color: white;
+    padding-right: 5%;
+}
+.navbar-expand-lg{
+    background-color: #000000;
+}
+.navbar-nav{
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.nav-item{
+    margin-left: 30px;
+}
+.img1{
+    background-image: url('https://www.kaboomconcretepumping.com.au/wp-content/uploads/2019/10/kaboomconcretepumping-slider-02-orange-new.jpg');
+    height: 70vh;
+    background-size: cover;
+}
+
+.text p{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 8%;
+    font-weight: 500;
+}
+.img2{
+    text-align: center;
+    margin-top: 20px;
+}
+.text1 p{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 15px;
+}
+.tt{
+    text-align: center;  
+    justify-content: center; 
+}
+.hh{
+    margin-top: 6%;
+}
+.head p{
+    text-align: center;
+    color: #F2632E;
+    font-size: 40px;
+    margin-top: 8%;
+}
+.image{
+    text-align: center;
+    margin-top: 1%;
+}
+.text2 p{
+    text-align: center;
+    margin-top: 1%;
+}
+
+.contain{
+    width: 80%;
+}
+.img3{
+    margin-top: 20%;
+}
+.text3{
+    margin-bottom: 20%;
+    text-align: center;
+    background-color: #f0e8e6c9;
+    padding-top: 10%;
+    /* position: absolute; */
+    margin-top: -7%;
+    position: relative;
+    padding-bottom: 5%;
+    width: 90%;
+}
+.img4{
+    margin-top: 10%;
+}
+.img3 img{
+    /* background-size: cover; */
+    /* height: 100%;
+    width: 100%; */
+    height: 100%;
+    width: 90%;
+}
+.img4 img{
+    height: 70%;
+    width: 90%;
+    position: relative;
+}
+.bimg{
+    background-image: url('https://www.kaboomconcretepumping.com.au/wp-content/uploads/2019/10/Resized_received_347307726218759.jpg');
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+.head1 h4{
+    text-align: center;
+    padding-top: 6%;
+    color: white;
+    font-size: 40px;
+}
+.img6
+{
+    text-align: center;
+    margin-top: 1%;
+}
+.head1 p{
+    text-align: center;
+    color: white;
+    padding-bottom: 5%;
+}
+.img7{
+    margin-bottom: 20%;
+}
+.img7 img{
+    height: 10rem;
+    width: 15rem;
+}
+.c{
+    width: 80%;
+}
+
+.equip h4{
+    text-align: center;
+    margin-top: 10%;
+    color: #F2632E;
+    font-size: 40px;
+}
+
+.ccc{
+    width: 84%;
+}
+.img8{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.img8 p{
+    padding-top: 2%;
+}
+.rr{
+    margin-top: 5%;
+}
+
+.img9 img{
+    height: 100%;
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.img10 img{
+    height:100%;
+    width: 100%;
+    border-radius: 20px;
+}
+#gap{
+    margin-top: 5%;
+}
+.sub-t h4{
+    color: #F2632E;
+}
+.sub-t p{
+    font-size: 17px;
+}
+
+.w{
+    width: 75%;
+}
+.heading{
+    text-align: center;
+    margin-top: 10%;
+}
+.para{
+    justify-content: center;
+}
+.para p{
+    text-align: justify;
+    margin-left: 4%;
+    margin-top: 3%;
+    line-height: 1.6;
+}
+.para1 p{
+    padding-left: 8%;
+    line-height: 1.7;
+}
+#img{
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+.img12 img{
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg{
+    background-color: #000000;
+}
+.wid{
+    width: 75%;
+}
+.head2{
+    margin-top: 15%;
+    padding-bottom: 10%;
+}
+.head2 p{
+    padding-top: 5%;
+}
+.head3{
+    
+    margin-top: 15%;
+    padding-bottom: 10%;
+}
+.head3 .ttt{
+    padding-top: 5%;
+}
+
+.head4{
+    margin-top: 15%;
+    padding-bottom: 10%;
+}
+.head4 .ttt1{
+    padding-top: 5%;
+}
+
+
